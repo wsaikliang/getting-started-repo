@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Run docker command in docker"
+echo "Run docker images"
+docker images
+echo "Run docker info"
+docker info
